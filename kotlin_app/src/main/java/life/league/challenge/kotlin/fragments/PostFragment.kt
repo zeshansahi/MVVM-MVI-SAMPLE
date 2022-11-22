@@ -63,7 +63,7 @@ class PostFragment : Fragment() {
                     }
                     is PostState.Posts -> {
                         Log.e(TAG, "observeViewModel Posts: $it")
-
+                        moviesAdapter.addItems(it.user)
                     }
                 }
             }
