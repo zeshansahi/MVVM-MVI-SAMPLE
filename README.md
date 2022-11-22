@@ -26,7 +26,3 @@ You must have newest Android Studio to run this Project
 - login api
 - user api
   for description there is no description in the user api so i show the object there to make the UI
-- i sent you the email regarding ui and api there are two point
-- according to the ui there are diffrent picture so i used user api.
-- if i use post api with specific user then user image will be the signle.
-  i you want some thing else let me know i can do.
