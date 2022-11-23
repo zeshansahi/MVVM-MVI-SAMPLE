@@ -10,7 +10,12 @@ I have used
 You must have newest Android Studio to run this Project
 
 
-### two productFlavors
+### Git Branches
+#### main
+- This branch has demo with MVVM
+#### MVI
+- This branch has MVI demo
+### Two productFlavors
 - production
 - staging
 - currently both flavours has same configurations.
